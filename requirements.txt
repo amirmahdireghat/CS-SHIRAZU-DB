@@ -1,0 +1,10 @@
+pur
+django
+openai
+python-dotenv
+python-telegram-bot
+pytz
+requests
+uvicorn
+tiktoken
+django-import-export
