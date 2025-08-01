@@ -20,7 +20,7 @@ persian_pattern = re.compile(r'^[\u0600-\u06FF\s]+$')
 
 # Set up Django
 os.environ.setdefault(
-    "DJANGO_SETTINGS_MODULE", "artech_bot.settings"
+    "DJANGO_SETTINGS_MODULE", "db_class_bot_bot.settings"
 )  # Replace with your project name
 django.setup()
 

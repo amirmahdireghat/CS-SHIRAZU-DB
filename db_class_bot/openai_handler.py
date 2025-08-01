@@ -5,7 +5,7 @@ import base64
 
 # Load environment variables
 os.environ.setdefault(
-    "DJANGO_SETTINGS_MODULE", "artech_bot.settings"
+    "DJANGO_SETTINGS_MODULE", "db_class_bot_bot.settings"
 )  # Replace with your project name
 django.setup()
 from admin_panel.models import user_data, Chat

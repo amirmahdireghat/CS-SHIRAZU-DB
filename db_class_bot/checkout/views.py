@@ -28,7 +28,7 @@ def payment_request(request, id):
     }
     # Build description with user name, phone number
     description = (
-        f"Purchase for token, artech bot. "
+        f"Purchase for token, db_class_bot bot. "
         f"User: {user.first_name}, Phone: {user.number}"
     )
     data = {
