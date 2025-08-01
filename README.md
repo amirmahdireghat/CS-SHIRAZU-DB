@@ -57,7 +57,7 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
-3. Set Up Environment Variables
+3. Set Up Environment Variables ```
 Create a .env file and add the following:
 
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token
